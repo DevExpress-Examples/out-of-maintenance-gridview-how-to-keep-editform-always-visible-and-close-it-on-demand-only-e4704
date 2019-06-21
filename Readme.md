@@ -8,6 +8,9 @@
 * [Index.cshtml](./CS/Sample/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to keep EditForm always visible and close it on demand only
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4704)**
+<!-- run online end -->
 
 
 <p>- Handle the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewScriptsASPxClientGridView_BeginCallbacktopic"><u>ASPxClientGridView.BeginCallback</u></a> event;<br />
