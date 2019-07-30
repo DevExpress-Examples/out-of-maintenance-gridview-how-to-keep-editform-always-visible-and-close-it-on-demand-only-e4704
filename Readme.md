@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # GridView - How to keep EditForm always visible and close it on demand only
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4704)**
+**[[Run Online]](https://codecentral.devexpress.com/e4704/)**
 <!-- run online end -->
 
 
